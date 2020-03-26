@@ -14,10 +14,10 @@ Last updated 2020-03-25
 
 ## Context
 
-A web mapping platform that's versatile through configuration and open for custom tool development.  
+A web mapping platform that's versatile through configuration and custom tool development.  
 Ideal for fit for purpose applications, both desktop and mobile.  Can be light weight or heavy weight depending on clients needs.
 A web mapping platform which is the built upon the ESRI GeoCortex platform. 
-This is a DataBC hosted licensed product which provides maps and reports from the BC Geographic Warehouse. 
+This is a DataBC hosted licensed product which provides maps and reports from the BC Geographic Warehouse (secure and public). 
 Ideal for either mobile or desktop as is or with additional development.  
 
 ## Context and Problem Statement
@@ -26,8 +26,8 @@ Allows access to secure objects within the BC Geographic Warehouse via WEBADE an
 
 ## Decision Drivers
 
-* based on business need
-* capabilitied and skill sets of the development team
+* based on business need for secure access to BCGW, and hosting support
+* capabilitied and skill sets of the development/application team
 * relationship with DataBC
 
 ## Considered Options
