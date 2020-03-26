@@ -9,7 +9,7 @@ Last updated 2020-03-25
 * Technology platform - .NET, IIS, HTML5 Viewer, ArcGIS rest services
 * Skillsets required - .NET development for customization, deployment via jenkins of configuration files to DataBC's environment
 * Licensed through GeoCortex
-* Links to software providers - https://www.geocortex.com/products/geocortex-essentials/
+* Links to software providers/code repositories - https://www.geocortex.com/products/geocortex-essentials/
 * Example implementation - https://maps.gov.bc.ca/ess/hm/imap4m/
 
 ## Context
