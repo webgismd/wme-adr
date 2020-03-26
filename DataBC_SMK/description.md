@@ -75,4 +75,4 @@ Business Areas who may have javascript/software developers who are able to build
 * Access visualization tools in the web mapping application	3D
 * Identify & discover relationships among features (e.g. proximity, intersection)
 * Types of training available	documentation - github documents
-* Mobile Friendly	Yesa
+* Mobile Friendly	Yes
