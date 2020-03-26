@@ -19,13 +19,6 @@ Ideal for fit for purpose applications, both desktop and mobile.  Can be light w
 A web mapping platform which is the built upon the ESRI GeoCortex platform. 
 This is a DataBC hosted licensed product which provides maps and reports from the BC Geographic Warehouse. 
 Ideal for either mobile or desktop as is or with additional development.  
-All purpose Web Mapping Framework focusing on fit for purpose application configuration 
--  Custom tools, workflows and reports can be developed to extend an application.
--  Mobile support through phone and tabloid
--  Light or heavy weight implementations
-
-
-
 
 ## Context and Problem Statement
 
