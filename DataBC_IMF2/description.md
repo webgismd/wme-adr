@@ -51,12 +51,12 @@ Allows access to secure objects within the BC Geographic Warehouse via WEBADE an
 # Additional Information
 
 ## Hosting / Development Requirements
-* Full development of coding/scripting web mapping applications	P
-* A web mapping application that can be configured and deployed with internal resources	P
-* A web mapping application that can be configured and deployed with Consulting/contractor services	P
-* Simple customizations without the effort of a full development	P
-* Complex custom tools, workflows and applications to provide powerful and feature-rich end-user experiences	P
-* Customization of web mapping applications that can be embedded in other applications or web pages	P
+* Full development of coding/scripting web mapping applications 
+* A web mapping application that can be configured and deployed with internal resources 
+* A web mapping application that can be configured and deployed with Consulting/contractor services 
+* Simple customizations without the effort of a full development 
+* Complex custom tools, workflows and applications to provide powerful and feature-rich end-user experiences 
+* Customization of web mapping applications that can be embedded in other applications or web pages 
 * Is hosted in Canada	- yes
 * Is hosted (DataBC managed deployment, developer deployments with delivery environments)	
 * minimal licensing fees	Geocortex ELA
