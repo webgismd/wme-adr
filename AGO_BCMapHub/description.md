@@ -84,4 +84,4 @@ Business Areas who may have internal GIS Staff who are able to build and support
 * Can Detect statistically significant patterns (e.g. hotspots, outliers) 
 * Can Use analytical models to make predictions based on data	(AGO does have some capabilities - but we encourage folks to use ArcMap or Pro instead.  Complexity of desired analytical model may be a factor and incur hosting costs)
 * Types of training available - in person, webinars, documentation, ESRI Support
-Mobile Friendly	Yes
+Mobile Friendly	- Yes
