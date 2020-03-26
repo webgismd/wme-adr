@@ -4,7 +4,13 @@ Last updated 2020-03-25
 
 ## Status
 
-What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?
+* Status: Platform Maturity - Minor UI Updates
+* Contact / Initiation Process	Client Engagement - Terry.Lanktree@gov.bc.ca; datamaps@gov.bc.ca
+* Technology platform - .NET, IIS, HTML5 Viewer, ArcGIS rest services
+* Skillsets required - .NET development for customization, deployment via jenkins of configuration files to DataBC's environment
+* Licensed through GeoCortex
+* Links to software providers - https://www.geocortex.com/products/geocortex-essentials/
+* Example implementation - https://maps.gov.bc.ca/ess/hm/imap4m/
 
 ## Context
 
@@ -18,13 +24,7 @@ All purpose Web Mapping Framework focusing on fit for purpose application config
 -  Mobile support through phone and tabloid
 -  Light or heavy weight implementations
 
-* Status: Platform Maturity - Minor UI Updates
-* Contact / Initiation Process	Client Engagement - Terry.Lanktree@gov.bc.ca; datamaps@gov.bc.ca
-* Technology platform - .NET, IIS, HTML5 Viewer, ArcGIS rest services
-* Skillsets required - .NET development for customization, deployment via jenkins of configuration files to DataBC's environment
-* Licensed through GeoCortex
-* Links to software providers - https://www.geocortex.com/products/geocortex-essentials/
-* Example implementation - https://maps.gov.bc.ca/ess/hm/imap4m/
+
 
 
 ## Context and Problem Statement
