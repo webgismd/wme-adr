@@ -1,4 +1,4 @@
-# Web Mapping Solutions currently available withing the BC Government
+# Web Mapping Solutions currently available within the BC Government
 
 | ﻿                                           | Description                          |    Lifecyle  |
 |--------------------------------------------|-------------------------------------|---------------|
