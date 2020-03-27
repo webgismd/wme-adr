@@ -1,9 +1,9 @@
 | ﻿                                           | Description                          |    Lifecyle  |
 |--------------------------------------------|-------------------------------------|---------------|
-| IMF2 - DataBC's Internet Mapping Framework |[/DataBC_IMF2/description.md](description)|Platform Maturity|
-| SMK - DataBC's Simple Map                  |[/DataBC_SMK/description.md](description) |  Growth  |
-| AGO - BC's Map Hub (ArcGIS Online)         |[/AGO_BCMapHub/description.md](description)| SaaS   |
-| CWM - IIT's Common Web Mapping Framework   |[/IIT_CWM/description.md](description)    | Platform Maturity  |
+| IMF2 - DataBC's Internet Mapping Framework |[description](/DataBC_IMF2/description.md)|Platform Maturity|
+| SMK - DataBC's Simple Map                  |[description](/DataBC_SMK/description.md) |  Growth  |
+| AGO - BC's Map Hub (ArcGIS Online)         |[description](/AGO_BCMapHub/description.md)| SaaS   |
+| CWM - IIT's Common Web Mapping Framework   |[description](/IIT_CWM/description.md)    | Platform Maturity  |
 
 
 | ﻿                                                                                                                                                        | Internet Mapping Framework 2                                                                                                                                                                                                                      | BC Map Hub                                                                                                                                                                                                                                                                                                                             | Simple Map Kit                                                                                                                                            | Common Web Mapping                                                                                                                                                                                                                                                                                                                               |
