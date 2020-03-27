@@ -3,7 +3,7 @@
 | ﻿                                           | Description                          |    Lifecyle  |
 |--------------------------------------------|-------------------------------------|---------------|
 | IMF2 - DataBC's Internet Mapping Framework |[description](/DataBC_IMF2/description.md)|Platform Maturity|
-| SMK - DataBC's Simple Map                  |[description](/DataBC_SMK/description.md) |  Growth  |
+| SMK - DataBC's Simple Map Kit                |[description](/DataBC_SMK/description.md) |  Growth  |
 | AGO - BC's Map Hub (ArcGIS Online)         |[description](/AGO_BCMapHub/description.md)| SaaS   |
 | CWM - IIT's Common Web Mapping Framework   |[description](/IIT_CWM/description.md)    | Platform Maturity  |
 
