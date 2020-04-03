@@ -1,5 +1,8 @@
 # Web Mapping Solutions currently available within the BC Government
 
+## Problem Statement
+People internal to government are not familiar with web mapping tools/services that are available/suitable to them - there is no consistent message that comes from IIT, GeoBC, and DataBC.
+
 | ﻿    Web Mapping Solution                  | Detailed Descriptions                          |    Lifecyle  |
 |--------------------------------------------|-------------------------------------|---------------|
 | IMF2 - DataBC's Internet Mapping Framework |[description](/DataBC_IMF2/description.md)|Platform Maturity|
