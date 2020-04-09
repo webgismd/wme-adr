@@ -4,14 +4,15 @@ Last updated 2020-03-25
 
 ## Status
 
-* Status: Platform Maturity - Licensed cloud based service running on elastic Amazon cloud
+* Status: SaaS - Licensed cloud based service running on elastic Amazon cloud
 * Contact / Initiation Process	Client Engagement - meg.hoole@gov.bc.ca; datamaps@gov.bc.ca
 * Technology platform - Cloud based, HTML5 Viewers, ArcGIS rest services
 * Skillsets required - familiarity with ESRI ecosystem of applications
 * ELA/Subscription based cloud services
 * Links to software providers/code repositories - http://arcgis.com/index.html
-* Example implementation - BC Map Hub (BC's ArcGIS Online subscription) -https://governmentofbc.maps.arcgis.com/home/index.html 
-Ie. Example web map application - EmergencyMapBC - https://governmentofbc.maps.arcgis.com/apps/webappviewer/index.html?id=950b4eec577a4dc5b298a61adab41c06
+* Example implementation 
+  - BC Map Hub (BC's ArcGIS Online subscription) -https://governmentofbc.maps.arcgis.com/home/index.html 
+  - EmergencyMapBC - https://governmentofbc.maps.arcgis.com/apps/webappviewer/index.html?id=950b4eec577a4dc5b298a61adab41c06
 
 ## Context
 
