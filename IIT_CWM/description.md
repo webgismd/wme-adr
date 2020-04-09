@@ -10,7 +10,7 @@ Last updated 2020-03-25
 * Skillsets required - familiarity with javascript / relationship with IIT
 * Links to software providers/code repositories - Vivid Solutions Inc.
 * Ie. Example web map application  MTO, ILRR, EYOR, NRS Explore
-- Natural Resource Online Services https://portal.nrs.gov.bc.ca/web/client/explore
+  - Natural Resource Online Services https://portal.nrs.gov.bc.ca/web/client/explore
 
 ## Context
 
