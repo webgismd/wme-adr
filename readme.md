@@ -3,7 +3,7 @@
 ## Problem Statement
 People internal to government are not familiar with web mapping tools/services that are available/suitable to them - there is no consistent message that comes from IIT, GeoBC, and DataBC.
 
-## Summary of existing kits oor frameworkds of Web Mapping kits currenly in use within the Government of British Columbia
+## Summary of existing code or frameworks for Web Mapping currently in use within the Government of British Columbia
 
 | ﻿    Web Mapping Solution                  | Detailed Descriptions                          |    Lifecyle  |
 |--------------------------------------------|-------------------------------------|---------------|
