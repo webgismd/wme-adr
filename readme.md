@@ -10,7 +10,7 @@ People internal to government are not familiar with web mapping tools/services t
 | IMF2 - DataBC's Internet Mapping Framework |[description](/DataBC_IMF2/description.md)|Platform Maturity|
 | SMK - DataBC's Simple Map Kit                |[description](/DataBC_SMK/description.md) |  Growth  |
 | AGO - BC's Map Hub (ArcGIS Online)         |[description](/AGO_BCMapHub/description.md)| SaaS   |
-| CWM - IIT's Common Web Mapping  |[description](/IIT_CWM/description.md)    | Platform Maturity  |
+| CWM - IIT's Common Web Mapping Framework |[description](/IIT_CWM/description.md)    | Platform Maturity  |
 | DMF - DataBC's Mash-up Framework  |    | Deprecated |
 
 
