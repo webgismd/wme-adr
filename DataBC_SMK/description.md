@@ -10,9 +10,9 @@ Last updated 2020-03-25
 * Skillsets required - familiarity with javascript development/github
 * Apache 2.0 license
 * Links to software providers/code repositories - https://github.com/bcgov/smk-client
-* Ie. Example web map application 
-- Truck Route Planner - https://bcgov.github.io/smk-tlink/
-- Assisted Living and Residential Care Locations - http://moh-qa.apps.gov.bc.ca/alrc/?
+* Ie. Example web map applications:  
+  - Truck Route Planner - https://bcgov.github.io/smk-tlink/
+  - Assisted Living and Residential Care Locations - http://moh-qa.apps.gov.bc.ca/alrc/?
 
 ## Context
 
