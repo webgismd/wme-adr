@@ -9,7 +9,7 @@ Last updated 2020-03-25
 * Technology platform - javascript, openlayers, OGC WMS/WFS, ISSS Platform (Liferay/Tomcat)
 * Skillsets required - familiarity with javascript / relationship with IIT
 * Links to software providers/code repositories - Vivid Solutions Inc.
-* Ie. Example web map application  MTO, ILRR, EYOR, NRS Explore
+* Ie. Example web map application  
   - Natural Resource Online Services https://portal.nrs.gov.bc.ca/web/client/explore
   - Mineral Tenures Online https://www.mtonline.gov.bc.ca/mtov/map/mto/cwm.jsp?site=mem_mto_min-view-title
   - Integrated Land & Resource Registry (ILRR) https://a100.gov.bc.ca/ext/ilrr/jsp/mapviewer/ilrr-mapviewer.jsp
